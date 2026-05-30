@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045210142052",
+    "project_id": "mwallet-b9f2b",
+    "storage_bucket": "mwallet-b9f2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045210142052:android:17218c343b7480aec4d671",
+        "android_client_info": {
+          "package_name": "com.example.mwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPEX9zbFLZ7X9JFrBZ12e7WwL9J7LgxHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
