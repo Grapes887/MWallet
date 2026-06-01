@@ -1,0 +1,7 @@
+sdk.dir=C\:\\Users\\YOUR_USER\\AppData\\Local\\Android\\Sdk
+
+# URL вашего Ktor-сервера (server-mwallet на ПК, порт 8080)
+# Эмулятор Android — localhost ПК:
+api.base.url=http://10.0.2.2:8080
+# Реальное устройство в той же Wi‑Fi — IP компьютера (ipconfig):
+# api.base.url=http://192.168.0.76:8080
